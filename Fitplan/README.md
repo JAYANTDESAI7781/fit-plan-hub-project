@@ -1,31 +1,26 @@
-Here’s a **clean, professional re-presentation** of your FitPlanHub content, suitable for a **README, project submission, or portfolio**:
+ FitPlanHub – Fitness Plan Marketplace
+
+FitPlanHub is a lightweight fitness platform that connects trainers with users. Trainers can create and manage fitness plans, while users can browse, follow trainers, and subscribe to plans through a simple interface.
 
 ---
 
-## 🏋️‍♂️ FitPlanHub – Fitness Plan Marketplace
+ Technology Stack
 
-**FitPlanHub** is a lightweight fitness platform that connects **trainers** with **users**. Trainers can create and manage fitness plans, while users can browse, follow trainers, and subscribe to plans through a simple interface.
+ Backend
 
----
+* Python Flask – REST API development
+* SQLAlchemy – ORM with SQLite database
+* JWT Authentication – Secure user and trainer access
 
-## 🚀 Technology Stack
+ Frontend
 
-### Backend
-
-* **Python Flask** – REST API development
-* **SQLAlchemy** – ORM with SQLite database
-* **JWT Authentication** – Secure user and trainer access
-
-### Frontend
-
-* **React (Vite)** – Fast and modern UI development
-* **Vanilla CSS** – Clean and responsive styling
+* React (Vite) – Fast and modern UI development
+* Vanilla CSS – Clean and responsive styling
 
 ---
+ ⚙️ Installation & Running the Project
 
-## ⚙️ Installation & Running the Project
-
-### Backend Setup
+ Backend Setup
 
 ```bash
 cd backend
